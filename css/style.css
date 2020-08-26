@@ -292,7 +292,7 @@ nav ul li a:hover::after {
 }
 
 .hero-image {
-  background: url("https://github.com/austinstine/Portfolio-Stine-2/blob/master/dist/img/websitehome.jpg");
+  background: url("github.com/austinstine/Portfolio-Stine-2/blob/master/dist/img/websitehome.jpg");
   background-attachment: fixed;
   width: 100%;
   height: 100vh; 
