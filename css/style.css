@@ -319,6 +319,7 @@ nav ul li a:hover::after {
 
 .portfolio-btn a {
   color: var(--clr-accent);
+  margin-top: 3.5rem;
 }
 
 #arrow-down {
