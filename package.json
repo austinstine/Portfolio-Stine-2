@@ -11,6 +11,6 @@
   "license": "ISC",
   "homepage": "https://austinstine.github.io/Portfolio-Stine-2",
   "dependencies": {
-    "gh-pages": "^2.1.0"
+    "gh-pages": "^2.0.1"
   }
 }
